@@ -1,0 +1,11 @@
+e6b9de05392a0aeca17389f00c52a062 *DESCRIPTION
+e8c1458438ead3c34974bc0be3a03ed6 *LICENSE
+b1f96c48c09c448c64e6de570e2da0d2 *NAMESPACE
+1b2f2e0d1c6bcb2bb405de7dc5ce315d *R/dkmeans.R
+ea490d6489d193c50b76111d53733b8f *README.md
+b6072903b3da2048ef6ffa63315a4c6e *man/dkmeans.Rd
+eb75fd7b49108f2a14999f249ab0b85b *man/kmeans.ddR-package.Rd
+2f0b437c4ea6c119145ad924e0aa3268 *man/predict.dkmeans.Rd
+d8974cd82eeb88882fe9eba06e8e4030 *src/dkmeans.cpp
+c22921dc017c3e82a16dfad574a0e3bd *tests/test-all.R
+26b7b940200e3c533ee17053027ce9ac *tests/testthat/test_dkmeans.R
